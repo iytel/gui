@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="firstSampleSelenium" />
+        <module name="trendyol.case" />
       </profile>
     </annotationProcessing>
   </component>
